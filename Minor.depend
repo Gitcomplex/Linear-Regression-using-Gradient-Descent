@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1634666105 source:b:\minor 1\new folder\minor\dataset.cpp
+	"utils.h"
+
+1639801290 b:\minor 1\new folder\minor\utils.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"Dataset.h"
+	"Weights.h"
+
+1634666048 b:\minor 1\new folder\minor\dataset.h
+
+1634666335 b:\minor 1\new folder\minor\weights.h
+
+1639799969 source:b:\minor 1\new folder\minor\main.cpp
+	"utils.h"
+
+1639485553 source:b:\minor 1\new folder\minor\utils.cpp
+	"utils.h"
+
+1634666403 source:b:\minor 1\new folder\minor\weights.cpp
+	"utils.h"
+
